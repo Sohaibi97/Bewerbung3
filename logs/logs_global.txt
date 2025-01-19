@@ -1,0 +1,95 @@
+2023-07-23 - 21:53:12 INFO: Called function 'model.rq_1_land.get_data' with parameter file=./EcoAnalyzerPy\model\..\..\data\clean\land.csv
+2023-07-23 - 21:53:12 INFO: Called function 'model.rq_1_land.get_data' with parameter file=./some/random/file/taht/does/not/exist.csv
+2023-07-23 - 21:53:19 INFO: Called plot.show() in 'view.rq_3_co2'
+2023-07-23 - 21:53:21 INFO: Called plot.show() in 'view.rq_3_co2'
+2023-07-23 - 21:53:22 INFO: Called plot.show() in 'view.rq_4_species'
+2023-07-23 - 21:53:23 INFO: Called plot.show() in 'view.rq_4_species'
+2023-07-23 - 21:53:25 INFO: Called plot.show() in 'view.rq_5_land_co2'
+2023-07-23 - 21:53:26 INFO: Called plot.show() in 'view.rq_5_land_co2'
+2023-07-23 - 21:53:28 INFO: Called plot.show() in 'view.rq_6_land_co2'
+2023-07-23 - 21:53:29 INFO: Called plot.show() in 'view.rq_6_land_co2'
+2023-07-23 - 21:56:37 INFO: Called function 'research_question_one' with parameter show=True
+2023-07-23 - 21:56:37 INFO: Called function 'model.rq_1_land.get_data' with parameter file=C:\Users\pasca\Documents\Rse_Project_2\rse_project_2\EcoAnalyzerPy\model\..\..\data\clean\land.csv
+2023-07-23 - 21:56:37 INFO: Called function 'view.research_question_one.plot_data' with parameter show=True
+2023-07-23 - 21:56:52 INFO: Called function 'research_question_three'
+2023-07-23 - 21:56:52 INFO: Called function 'model.rq3_co2.get_data'
+2023-07-23 - 21:56:52 INFO: Called function 'model.rq_3_co2.prepare_data'
+2023-07-23 - 21:58:13 INFO: Called function 'research_question_three'
+2023-07-23 - 21:58:13 INFO: Called function 'model.rq3_co2.get_data'
+2023-07-23 - 21:58:13 INFO: Called function 'model.rq_3_co2.prepare_data'
+2023-07-23 - 21:58:15 INFO: Called plot.show() in 'view.rq_3_co2'
+2023-07-23 - 21:58:24 INFO: Called function 'research_question_four'
+2023-07-23 - 21:58:24 INFO: Called function 'model.rq_4_species.get_data'
+2023-07-23 - 21:58:24 INFO: Called function 'model.rq_4_species.prepare_data'
+2023-07-23 - 21:58:26 INFO: Called plot.show() in 'view.rq_4_species'
+2023-07-23 - 21:58:30 INFO: Called function 'research_question_five'
+2023-07-23 - 21:58:30 INFO: Called function 'model.rq_5_land.get_data'
+2023-07-23 - 21:58:30 INFO: Called function 'model.rq_5_land.prepare_data'
+2023-07-23 - 21:58:31 INFO: Called plot.show() in 'view.rq_5_land_co2'
+2023-07-23 - 21:58:36 INFO: Called function 'research_question_six'
+2023-07-23 - 21:58:36 INFO: Called function 'model.rq_6_land.get_data'
+2023-07-23 - 21:58:36 INFO: Called function 'model.rq_6_land.prepare_data'
+2023-07-23 - 21:58:38 INFO: Called plot.show() in 'view.rq_6_land_co2'
+2023-07-23 - 22:21:05 INFO: Called function 'research_question_one' with parameter show=True
+2023-07-23 - 22:21:05 INFO: Called function 'model.rq_1_land.get_data' with parameter file=C:\Users\pasca\Documents\Rse_Project_2\rse_project_2\EcoAnalyzerPy\model\..\..\data\clean\land.csv
+2023-07-23 - 22:21:05 INFO: Called function 'view.research_question_one.plot_data' with parameter show=True
+2023-07-23 - 22:21:12 INFO: Called function 'research_question_one' with parameter show=True
+2023-07-23 - 22:21:12 INFO: Called function 'model.rq_1_land.get_data' with parameter file=C:\Users\pasca\Documents\Rse_Project_2\rse_project_2\EcoAnalyzerPy\model\..\..\data\clean\land.csv
+2023-07-23 - 22:21:12 INFO: Called function 'view.research_question_one.plot_data' with parameter show=True
+2023-07-23 - 22:21:24 INFO: Called function 'research_question_three'
+2023-07-23 - 22:21:24 INFO: Called function 'model.rq3_co2.get_data'
+2023-07-23 - 22:21:24 INFO: Called function 'model.rq_3_co2.prepare_data'
+2023-07-23 - 22:21:25 INFO: Called plot.show() in 'view.rq_3_co2'
+2023-07-24 - 00:25:40 INFO: Called function 'research_question_one' with parameter show=True
+2023-07-24 - 00:25:40 INFO: Called function 'model.rq_1_land.get_data' with parameter file=c:\Users\moham\OneDrive\Desktop\rse_project_2\EcoAnalyzerPy\model\..\..\data\clean\land.csv
+2023-07-24 - 00:25:40 INFO: Called function 'view.research_question_one.plot_data' with parameter show=True
+2023-07-24 - 00:25:47 INFO: Called function 'research_question_three'
+2023-07-24 - 00:25:47 INFO: Called function 'model.rq3_co2.get_data'
+2023-07-24 - 00:25:47 INFO: Called function 'model.rq_3_co2.prepare_data'
+2023-07-24 - 00:25:50 INFO: Called plot.show() in 'view.rq_3_co2'
+2023-07-24 - 00:25:51 INFO: Called function 'research_question_four'
+2023-07-24 - 00:25:51 INFO: Called function 'model.rq_4_species.get_data'
+2023-07-24 - 00:25:51 INFO: Called function 'model.rq_4_species.prepare_data'
+2023-07-24 - 00:25:57 INFO: Called plot.show() in 'view.rq_4_species'
+2023-07-24 - 00:25:59 INFO: Called function 'research_question_five'
+2023-07-24 - 00:25:59 INFO: Called function 'model.rq_5_land.get_data'
+2023-07-24 - 00:25:59 INFO: Called function 'model.rq_5_land.prepare_data'
+2023-07-24 - 00:26:01 INFO: Called plot.show() in 'view.rq_5_land_co2'
+2023-07-24 - 00:26:02 INFO: Called function 'research_question_six'
+2023-07-24 - 00:26:02 INFO: Called function 'model.rq_6_land.get_data'
+2023-07-24 - 00:26:02 INFO: Called function 'model.rq_6_land.prepare_data'
+2023-07-24 - 00:26:05 INFO: Called plot.show() in 'view.rq_6_land_co2'
+2023-07-24 - 00:30:07 INFO: Called function 'research_question_one' with parameter show=True
+2023-07-24 - 00:30:07 INFO: Called function 'model.rq_1_land.get_data' with parameter file=c:\Users\moham\OneDrive\Desktop\rse_project_2\EcoAnalyzerPy\model\..\..\data\clean\land.csv
+2023-07-24 - 00:30:07 INFO: Called function 'view.research_question_one.plot_data' with parameter show=True
+2023-07-24 - 00:30:12 INFO: Called function 'research_question_three'
+2023-07-24 - 00:30:12 INFO: Called function 'model.rq3_co2.get_data'
+2023-07-24 - 00:30:12 INFO: Called function 'model.rq_3_co2.prepare_data'
+2023-07-24 - 00:30:14 INFO: Called plot.show() in 'view.rq_3_co2'
+2023-07-24 - 00:30:16 INFO: Called function 'research_question_four'
+2023-07-24 - 00:30:16 INFO: Called function 'model.rq_4_species.get_data'
+2023-07-24 - 00:30:16 INFO: Called function 'model.rq_4_species.prepare_data'
+2023-07-24 - 00:30:21 INFO: Called plot.show() in 'view.rq_4_species'
+2023-07-24 - 00:30:22 INFO: Called function 'research_question_five'
+2023-07-24 - 00:30:22 INFO: Called function 'model.rq_5_land.get_data'
+2023-07-24 - 00:30:22 INFO: Called function 'model.rq_5_land.prepare_data'
+2023-07-24 - 00:30:25 INFO: Called plot.show() in 'view.rq_5_land_co2'
+2023-07-24 - 00:32:05 INFO: Called function 'research_question_six'
+2023-07-24 - 00:32:05 INFO: Called function 'model.rq_6_land.get_data'
+2023-07-24 - 00:32:05 INFO: Called function 'model.rq_6_land.prepare_data'
+2023-07-24 - 00:32:14 INFO: Called plot.show() in 'view.rq_6_land_co2'
+2025-01-19 - 15:31:46 INFO: Called function 'research_question_one' with parameter show=True
+2025-01-19 - 15:31:46 INFO: Called function 'model.rq_1_land.get_data' with parameter file=c:\Users\moham\OneDrive\Desktop\Bachelor\rse_project_2\EcoAnalyzerPy\model\..\..\data\clean\land.csv
+2025-01-19 - 15:31:46 INFO: Called function 'view.research_question_one.plot_data' with parameter show=True
+2025-01-19 - 15:41:45 INFO: Called function 'research_question_one' with parameter show=True
+2025-01-19 - 15:41:45 INFO: Called function 'model.rq_1_land.get_data' with parameter file=c:\Users\moham\OneDrive\Desktop\Bachelor\rse_project_2\EcoAnalyzerPy\model\..\..\data\clean\land.csv
+2025-01-19 - 15:41:46 INFO: Called function 'view.research_question_one.plot_data' with parameter show=True
+2025-01-19 - 15:41:46 INFO: Called function 'research_question_one' with parameter show=True
+2025-01-19 - 15:41:46 INFO: Called function 'model.rq_1_land.get_data' with parameter file=c:\Users\moham\OneDrive\Desktop\Bachelor\rse_project_2\EcoAnalyzerPy\model\..\..\data\clean\land.csv
+2025-01-19 - 15:41:46 INFO: Called function 'view.research_question_one.plot_data' with parameter show=True
+2025-01-19 - 15:42:50 INFO: Called function 'research_question_one' with parameter show=True
+2025-01-19 - 15:42:50 INFO: Called function 'model.rq_1_land.get_data' with parameter file=c:\Users\moham\OneDrive\Desktop\Bachelor\rse_project_2\EcoAnalyzerPy\model\..\..\data\clean\land.csv
+2025-01-19 - 15:42:50 INFO: Called function 'view.research_question_one.plot_data' with parameter show=True
+2025-01-19 - 15:42:51 INFO: Called function 'research_question_one' with parameter show=True
+2025-01-19 - 15:42:51 INFO: Called function 'model.rq_1_land.get_data' with parameter file=c:\Users\moham\OneDrive\Desktop\Bachelor\rse_project_2\EcoAnalyzerPy\model\..\..\data\clean\land.csv
+2025-01-19 - 15:42:51 INFO: Called function 'view.research_question_one.plot_data' with parameter show=True

@@ -1,0 +1,41 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Research Software Engineering Group Project
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+author:
+  - given-names: Sohaib
+    family-names: Khamlichi
+    email: mohamed.sohaib.khamlichi@uni-potsdam.de
+abstract: >-
+  In this project i am analyzing data from [UN
+  Data](https://data.un.org/default.aspx) on Threatened
+  Species, Land Usage and Carbon Dioxide Emmision Estimates.
+
+
+  I want to examine the number of threatened species (with
+  a focus on vertebrates) over the years (2004 to 2022) and
+  compare land usage (Important sites for terrestrial
+  biodiversity protected) and CO2 Emissions in relation to
+  numbe rof threatened species in the areas that the
+  datasets provide for the year 2021.
+
+
+  The first csv contains data on threatened species with the
+  variables area, year, series (vertebrates, invertebrates,
+  plants).
+
+  The csv on land usage provides data for 2005, 2010, 2019,
+  2021 about "Sites protected for terre-strial
+  biodiversity", as well as data about total land, permanent
+  crop culture and forest covered land. The third csv has
+  data on regions, year and values of emissions in thousand
+  metric tons of carbon dioxide.
+
+
+  I am interested in comparing the values of the datasets
+  and in visualizing the values of threatened species.
